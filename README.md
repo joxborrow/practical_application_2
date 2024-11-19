@@ -6,7 +6,8 @@
 - Odometer and title status also serve as predictors of used car prices
 
 
-> [!IMPORTANT] Interesting Note
+> :smile: Interesting Note
+> 
 > This assignment was very timely as I recently hit a deer and I am in the
 > market for an used truck. I used my findings to help set criteria on
 > used car websites to find the best deal. We will see what I purchase
