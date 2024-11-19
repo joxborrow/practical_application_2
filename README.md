@@ -5,6 +5,8 @@
 - Model year is the primary driver of used car prices
 - Odometer and title status also serve as predictors of used car prices
 
+See the full report in the markdown notebook!
+
 
 > :smile: Interesting Note
 > 
