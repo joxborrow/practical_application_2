@@ -7,7 +7,6 @@
 
 See the full report in the markdown [notebook](practical_application_2.ipynb)!
 
-
 > :smile: Interesting Note
 > 
 > This assignment was very timely as I recently hit a deer and I am in the
